@@ -1,4 +1,4 @@
-## Sidefolio - Portfolio website template
+## Porfolio- Daanish Azim Sheikh
 
 As seen on [Aceternity UI](https://ui.aceternity.com/templtes/sidefolio)
 
